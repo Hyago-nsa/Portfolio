@@ -36,7 +36,7 @@ const data = [
         alt: "[React] Portfolio Website",
         title: "[React] Portfolio Website",
         subtitle: "This is the website you are browsing right now! Enjoy and get to know a little more about me. Any doubts? Send me a message!",
-        toGithub: "https:/github.com",
+        toGithub: "https://github.com/Hyago-nsa/Portfolio",
     },
     {
         id: 5,

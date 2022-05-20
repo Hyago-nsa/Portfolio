@@ -8,7 +8,7 @@ function Cards_Service(props) {
             <img src={props.img} alt={props.alt}/>
             <h3>{props.title}</h3>
             <p>{props.subtitle}</p>
-            <a href={props.toGithub} class="btn">Read More</a>
+            <a href={props.toGithub} target="_blank"class="btn">Read More</a>
         </div>
     </article>
   )
