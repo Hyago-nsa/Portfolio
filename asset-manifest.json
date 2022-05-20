@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-website-4.0/static/css/main.8546983f.css",
+    "main.js": "/react-website-4.0/static/js/main.14d8f695.js",
+    "static/media/meowth-tinder-for-cats.jpg": "/react-website-4.0/static/media/meowth-tinder-for-cats.cbbc7a19f6801cb4af6b.jpg",
+    "static/media/portfolio-website.jpg": "/react-website-4.0/static/media/portfolio-website.35a9d31a0e1b5fbc014d.jpg",
+    "static/media/send-weather-message.jpg": "/react-website-4.0/static/media/send-weather-message.0c56192fc6210a8e4f0b.jpg",
+    "static/media/icon-6.png": "/react-website-4.0/static/media/icon-6.9fe4cc0c4f159317f309.png",
+    "static/media/get-weather.jpg": "/react-website-4.0/static/media/get-weather.176494394e6a5fa8017b.jpg",
+    "static/media/to-do-list.jpg": "/react-website-4.0/static/media/to-do-list.7622436fbe87daa6a8a6.jpg",
+    "static/media/newsletter.jpg": "/react-website-4.0/static/media/newsletter.07406de156cfd45dd3a7.jpg",
+    "static/media/icon-4.png": "/react-website-4.0/static/media/icon-4.3c196e27543451798f3d.png",
+    "static/media/icon-5.png": "/react-website-4.0/static/media/icon-5.bb13ebd9561a6ee645c2.png",
+    "static/media/icon-2.png": "/react-website-4.0/static/media/icon-2.7ade9265dc9bd2c6bc82.png",
+    "static/media/icon-1.png": "/react-website-4.0/static/media/icon-1.e7a936432435be030e1c.png",
+    "static/media/icon-3.png": "/react-website-4.0/static/media/icon-3.b53de0f8c513f9e8b378.png",
+    "index.html": "/react-website-4.0/index.html",
+    "main.8546983f.css.map": "/react-website-4.0/static/css/main.8546983f.css.map",
+    "main.14d8f695.js.map": "/react-website-4.0/static/js/main.14d8f695.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8546983f.css",
+    "static/js/main.14d8f695.js"
+  ]
+}
